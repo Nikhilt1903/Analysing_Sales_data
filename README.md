@@ -3,8 +3,8 @@ To perform descriptive analytics, visualize data distributions, and preprocess t
 
 
 Descriptive Analytics for Numerical Columns
-●	Objective: To compute and analyze basic statistical measures for numerical columns in the dataset.
-●	Steps:
+Objective: To compute and analyze basic statistical measures for numerical columns in the dataset.
+Steps:
 	Load the dataset into a data analysis tool or programming environment (e.g., Python with pandas library).
 	Identify numerical columns in the dataset.
 	Calculate the mean, median, mode, and standard deviation for these columns.
