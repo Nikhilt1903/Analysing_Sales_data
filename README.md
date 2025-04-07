@@ -1,5 +1,7 @@
 # Analysing_Sales_data
 To perform descriptive analytics, visualize data distributions, and preprocess the dataset for further analysis.
+
+
 Descriptive Analytics for Numerical Columns
 ●	Objective: To compute and analyze basic statistical measures for numerical columns in the dataset.
 ●	Steps:
@@ -7,6 +9,8 @@ Descriptive Analytics for Numerical Columns
 	Identify numerical columns in the dataset.
 	Calculate the mean, median, mode, and standard deviation for these columns.
 	Provide a brief interpretation of these statistics.
+
+ 
 Data Visualization
 ●	Objective: To visualize the distribution and relationship of numerical and categorical variables in the dataset.
 ●	Histograms:
@@ -19,11 +23,15 @@ Data Visualization
 	Identify categorical columns in the dataset.
 	Create bar charts to visualize the frequency or count of each category.
 	Analyze the distribution of categories and provide insights.
+
+ 
 Standardization of Numerical Variables
 ●	Objective: To scale numerical variables for uniformity, improving the dataset’s suitability for analytical models.
 ●	Steps:
 	Explain the concept of standardization (z-score normalization).
 	Standardize the numerical columns using the formula: z=x-mu/sigma
+
+ 
 	
 	Show before and after comparisons of the data distributions.
 Conversion of Categorical Data into Dummy Variables
@@ -32,4 +40,4 @@ Conversion of Categorical Data into Dummy Variables
 	Discuss the need for converting categorical data into dummy variables (one-hot encoding).
 	Apply one-hot encoding to the categorical columns, creating binary (0 or 1) columns for each category.
 	Display a portion of the transformed dataset.
-![Uploading image.png…]()
+
